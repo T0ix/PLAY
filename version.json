@@ -1,6 +1,1 @@
-{
-  "version_code": 2,
-  "version_name": "1.1",
-  "apk_url": "",
-  "changelog": "Flux directs, recherche, mise a jour OTA"
-}
+{"version_code":3,"version_name":"1.2","apk_url":"https://github.com/T0ix/PLAY/releases/download/v1.2/app-debug.apk","changelog":"Fix Koza TV, fix toutes les chaines WebView"}
